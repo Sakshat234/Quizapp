@@ -17,7 +17,7 @@ class Quizzler extends StatelessWidget {
       ),
     );
   }
-}
+};;
 
 class QuizPage extends StatefulWidget {
   @override
